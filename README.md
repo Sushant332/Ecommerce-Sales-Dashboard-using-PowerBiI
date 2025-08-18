@@ -28,7 +28,7 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 
 ## 📷 Dashboard Preview  
 
-  
+  ![Madhav E-commerce Dashboard](powerb.png) 
 
 ---
 
