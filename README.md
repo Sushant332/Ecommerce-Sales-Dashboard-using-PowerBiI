@@ -79,7 +79,7 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 ## 📬 Contact
 
 - 👤 Author: Madhav (E-commerce Analytics Project)
-- 📧 [Your Email Here]
-- 🌐 [LinkedIn / Portfolio link]
+- 📧 sushant171020@gmail.com
+- 🌐 https://www.linkedin.com/in/sushant-556728201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ⚡ This project is for learning and business analytics practice using Power BI.
