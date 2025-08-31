@@ -1,10 +1,10 @@
-# 📊 Madhav E-commerce Sales Dashboard  
+#  E-commerce Sales Dashboard  
 
 This repository contains a **Power BI dashboard** built to analyze and visualize e-commerce sales data for Madhav E-commerce. The dashboard provides insights into sales performance, customer behavior, and profitability across different categories, states, and time periods.  
 
 ---
 
-## 🚀 Features  
+##  Features  
 
 - **Key Metrics Overview**  
   - Total Sales Amount: **438K**  
@@ -13,12 +13,12 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
   - Average Order Value (AOV): **121K**  
 
 - **Visual Insights**  
-  - 📈 **Profit by Month** – Monthly profit trend with positive and negative months.  
-  - 🗺️ **Sales by State** – Performance comparison across Maharashtra, Madhya Pradesh, Uttar Pradesh, and Delhi.  
-  - 🛍️ **Quantity by Category** – Breakdown into Clothing, Electronics, and Furniture.  
-  - 👥 **Top Customers** – Sales contribution by key customers.  
-  - 💳 **Quantity by Payment Mode** – Distribution across COD, UPI, Debit Card, Credit Card, and EMI.  
-  - 📦 **Profit by Sub-category** – Sub-categories like Printers, Bookcases, Saree, Accessories, and Tables.  
+  -  **Profit by Month** – Monthly profit trend with positive and negative months.  
+  -  **Sales by State** – Performance comparison across Maharashtra, Madhya Pradesh, Uttar Pradesh, and Delhi.  
+  -  **Quantity by Category** – Breakdown into Clothing, Electronics, and Furniture.  
+  -  **Top Customers** – Sales contribution by key customers.  
+  -  **Quantity by Payment Mode** – Distribution across COD, UPI, Debit Card, Credit Card, and EMI.  
+  -  **Profit by Sub-category** – Sub-categories like Printers, Bookcases, Saree, Accessories, and Tables.  
 
 - **Filters & Slicers**  
   - Quarter-wise filter (Q1, Q2, Q3, Q4)  
@@ -26,13 +26,13 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 
 ---
 
-## 📷 Dashboard Preview  
+##  Dashboard Preview  
 
   ![Madhav E-commerce Dashboard](powerb.png) 
 
 ---
 
-## 🛠️ Tools & Technologies  
+##  Tools & Technologies  
 
 - **Power BI Desktop** – For building the interactive dashboard.  
 - **DAX (Data Analysis Expressions)** – For calculated measures and KPIs.  
@@ -50,7 +50,7 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 ```
 ---
 
-## 📌 Insights from the Dashboard
+##  Insights from the Dashboard
 
 - Clothing is the most sold category (63% of total quantity).
 
@@ -64,7 +64,7 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 
 ---
 
-## 📈 Use Cases
+## Use Cases
 
 - Business decision-making based on sales trends.
 
@@ -76,10 +76,10 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 👤 Author: Madhav (E-commerce Analytics Project)
-- 📧 sushant171020@gmail.com
-- 🌐 https://www.linkedin.com/in/sushant-556728201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- (E-commerce Analytics Project)
+-  sushant171020@gmail.com
+-  https://www.linkedin.com/in/sushant-556728201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-⚡ This project is for learning and business analytics practice using Power BI.
+ This project is for learning and business analytics practice using Power BI.
